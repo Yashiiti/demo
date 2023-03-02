@@ -4,3 +4,4 @@ localhost
 abcd
 more
 def
+newfile
